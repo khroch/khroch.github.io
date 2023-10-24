@@ -1,1 +1,1 @@
-# khroc
+# [khroc](https://khroc.com)
