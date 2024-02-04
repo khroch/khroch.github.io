@@ -1,1 +1,1 @@
-# [khroc](https://khroc.com)
+# [khroch](https://khroch.com)
